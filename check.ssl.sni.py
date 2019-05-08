@@ -1,4 +1,9 @@
 #!/bin/env python
+# coding: utf-8
+'''
+Author: 运维Time
+GitHub: https://github.com/OPSTime
+'''
 
 import re
 from sys import argv, stdout

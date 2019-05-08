@@ -1,4 +1,10 @@
 #!/bin/env python
+# coding: utf-8
+'''
+Author: 运维Time
+GitHub: https://github.com/OPSTime
+'''
+
 import socket
 import re
 import sys
